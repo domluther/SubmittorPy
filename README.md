@@ -1,7 +1,9 @@
 # SubmittorPy
 Checks a folder to see if files are there or not and generates an HTML file based on it.
 
-Class list format is...
+![Screenshot](screenshot.png)
+
+Class list format is as follows
 
 Class <class name>
 Path <Path to check>
@@ -18,4 +20,3 @@ Bob Doe
 Jane Doe
 Sally Doe
 ENDCLASS
-

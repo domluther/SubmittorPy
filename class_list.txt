@@ -1,0 +1,12 @@
+Class 1
+Path C:\Users\Dom\Dropbox\Coding\Python\Submittor\test_folder
+Lara Croft
+Jane Doe
+Jim Smith
+ENDCLASS
+Class 2
+Path C:\Users\Dom\Dropbox\Coding\Python\Submittor\test_folder2
+Bob Andrews
+Person 2
+Person 3
+ENDCLASS

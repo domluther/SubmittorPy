@@ -5,7 +5,7 @@ Jane Doe
 Jim Smith
 ENDCLASS
 Class 2
-Path C:\Users\Dom\Dropbox\Coding\Python\SubmittorPy\test_folder2
+Path C:\Users\Dom\Dropbox\Coding\Python\SubmittorPy\test folder2
 Bob Andrews
 Person 2
 Person 3
